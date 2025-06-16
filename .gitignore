@@ -1,0 +1,10 @@
+# .gitignore
+*.exe
+*.docx
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.ini
+*.txt
+__pycache__/
